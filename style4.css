@@ -1,0 +1,32 @@
+.Bhola{
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+    border-style: double;
+    background-color: rgb(151, 236, 151);
+    border-radius: 20px;
+    margin-left: 350px;
+    border-color: rgb(182, 211, 182);
+    margin-top: 40px;
+
+}
+img{
+    width: 70px;
+    height: 70px;
+    margin-left: 160px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+   
+}
+p{
+    text-align: center;
+}
+.ok{
+    margin-left: 150px;
+    background-color: green;
+    width: 70px;
+    height: 40px;
+}
